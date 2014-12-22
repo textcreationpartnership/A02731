@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A little treatise vppon the firste verse of the 122. Psalm stirring vp vnto carefull desiring a duti
+
+1. To all our Christian Brethren in Englande, which wayte for the kingdome of Christ, increase of the knowledge of the trueth bee multiplied vnto them, with strēgth and patience, and perseuerance vnto the ende.
+J Would haue the Reader aduertised, that whereas in one place of this boke, I haue these woords: The
 #####Body#####
-A little treatise vppon the firste verse of the 122. Psalm stirring vp vnto carefull desiring a duti
+
+1. PSAL. C.XXII. ver. I.I reioyced when they saide vnto me▪ We will goe into the house of the Lorde.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
